@@ -617,5 +617,10 @@ align-content: center;
     padding: 5px;
     border-radius: 18px;
 }
+footer .gymInfo{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
 
 }
