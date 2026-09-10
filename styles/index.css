@@ -23,7 +23,7 @@ section{
    margin: auto;
 }
 #header{
-    background-image: url('/pics/headerImg.jpg');
+    background-image: url('../pics/headerImg.jpg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
